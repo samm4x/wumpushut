@@ -7,7 +7,9 @@ author:
   name: Wumpus Hut - Verification
   url: https://join.wumpushut.xyz/
 image:
-  url: https://ih1.redbubble.net/image.838115196.2048/pp,840x830-pad,1000x1000,f8f8f8.jpg
+  url: https://raw.githubusercontent.com/samm4x/wumpushut/master/img/channel-banners/welcome%20banner.png
+thumbnail:
+  url: https://raw.githubusercontent.com/samm4x/wumpushut/master/img/wumpushypesquad.gif
 footer:
   text: Click/tap the reaction below this message to join the server!
-  icon_url: https://ih1.redbubble.net/image.838115196.2048/pp,840x830-pad,1000x1000,f8f8f8.jpg
+  icon_url: https://raw.githubusercontent.com/samm4x/wumpushut/master/img/transparent.webp
